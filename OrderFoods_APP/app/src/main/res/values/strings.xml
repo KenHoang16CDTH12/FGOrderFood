@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OrderFoods_APP</string>
+    <string name="slogan">No matter where you are: whether you are at home, or in the office, or on the beach, we will find you and we will feed you.</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <!--Facebook SDK-->
+    <string name="facebook_app_id">182288075712564</string>
+    <string name="facebook_login_protocol_name">fb182288075712564</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">a2f0a74b7d0f86984d2c9d5993de3e91</string>
+
+    <string name="google_places_api_key">AIzaSyC08f8VkizzZ6d89XHIUn1MM9LLCuSzCyw</string>
+</resources>

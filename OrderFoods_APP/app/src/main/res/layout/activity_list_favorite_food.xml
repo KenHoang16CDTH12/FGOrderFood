@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:fitsSystemWindows="true"
+    android:id="@+id/listFavoritefoodMain"
+    android:background="@drawable/bg_color_food_5"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="it.hueic.kenhoang.orderfoods_app.ListFoodActivity">
+    <include layout="@layout/toolbar"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_food"
+        android:layout_marginTop="10dp"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
